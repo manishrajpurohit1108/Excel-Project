@@ -117,6 +117,10 @@
 - For cleaner presentation, only the **Dashboard** and **Dataset** worksheets are visible in the Excel file.  
 - All supporting **PivotTable worksheets** (used to build visuals and KPIs) have been **hidden**.  
 - If you wish to review or modify them, simply **right-click on any sheet tab → Unhide → Select the sheets**.
+---
+
+## 📁 Project Excel File:
+[Project File](https://github.com/manishrajpurohit1108/Excel-Project/blob/main/Excel%20Project.xlsx)
 
 ---
 ## 📷 Dashboard Preview
